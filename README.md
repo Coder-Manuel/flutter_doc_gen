@@ -1,6 +1,6 @@
-# fdg README
+# flutter_doc_gen
 
-This is the README for your extension "fdg". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "flutter_doc_gen". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
