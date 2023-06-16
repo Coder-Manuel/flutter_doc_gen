@@ -1,0 +1,13 @@
+{
+    "Gen Flutter Method Docs": {
+      "prefix": "///",
+      "body": [
+        "/// Documentation for ${1:methodName}",
+        "/// > * _`@param: [${2:T]}`_ - ${3:paramName}",
+        "///",
+        "/// > _`@returns: [${4:T}]`_"
+      ],
+      "description": "Generates Flutter/Dart Method Docs"
+    }
+  }
+  
