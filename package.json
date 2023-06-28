@@ -3,6 +3,7 @@
   "displayName": "Flutter/Dart Doc Generator",
   "description": "Generates easy doc comments for flutter/dart code",
   "publisher": "CoderManuel",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
