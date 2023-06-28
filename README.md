@@ -1,4 +1,4 @@
-# flutter_doc_gen
+# flutter-doc-gen
 
 Generates easy doc comments for flutter/dart code
 
