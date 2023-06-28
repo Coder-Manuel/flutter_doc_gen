@@ -4,7 +4,7 @@
   "description": "Generates easy doc comments for flutter/dart code",
   "publisher": "CoderManuel",
   "icon": "images/icon.png",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.79.0"
   },
