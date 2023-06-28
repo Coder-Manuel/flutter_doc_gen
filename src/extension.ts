@@ -86,6 +86,10 @@ function generateDocumentation(
     const insertionPosition = new vscode.Position(methodLine.lineNumber, 0);
 
     edit.insert(insertionPosition, `${commentBlock}\n\n`);
+
+    vscode.window.showInformationMessage(
+      `Comment documentation for ${methodName} generated successfully`
+    );
   }
 }
 
